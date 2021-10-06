@@ -1,4 +1,4 @@
-# Number Guessing Game
+# Introdução ao Git e GitHub
 Desafio de projeto sobre Git/Github para o Bootcamp da Digital Innovation One.
 
 ## Links úteis
